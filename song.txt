@@ -5,3 +5,5 @@ second commit in feature
 3
 4
 5
+###########
+conflict
