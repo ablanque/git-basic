@@ -2,3 +2,4 @@ The snow glows white on the mountain tonight
 New line
 first commit in feature
 second commit in feature
+3
